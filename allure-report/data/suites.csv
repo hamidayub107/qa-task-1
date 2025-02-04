@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7886","should validate dynamic element","","Tue Feb 04 12:58:53 GST 2025","passed","Tue Feb 04 12:59:01 GST 2025","","Dynamic Element Test Suite","",""
+"","3092","should upload a file successfully","","Tue Feb 04 12:58:53 GST 2025","passed","Tue Feb 04 12:58:56 GST 2025","","Upload File Test Suite","",""
+"","3619","should login with valid credentials","","Tue Feb 04 12:58:53 GST 2025","passed","Tue Feb 04 12:58:57 GST 2025","","Login Test Suite","",""
+"","813","should validate error message for incorrect credentials","","Tue Feb 04 12:58:57 GST 2025","passed","Tue Feb 04 12:58:58 GST 2025","","Login Test Suite","",""
